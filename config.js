@@ -107,7 +107,7 @@ global.mess = {
     bot: 'Fitur Khusus Pengguna Nomor Bot',
 
 
-    wait: 'Loading...',
+    wait: 'Loading⏳',
 
 
     endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
